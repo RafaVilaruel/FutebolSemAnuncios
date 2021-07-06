@@ -3,4 +3,4 @@
 </p>
 <p>E se o site estiver ruim, é só voltar e ir para outro em segundos.</p>
 <h2>Observações</h2>
-<p>A primeira versão lançada tinha um iconezinho de futebol e o nome certo. Mas acabei perdendo ela. Depois de muitos pedidos para lançar novamente o app (o host gratuito derrubou o site) eu criei rapidamente uma segunda versão, sem muita frescura. Em funcionamento, é a mesma coisa do primeiro, só não tem o nome "Futebol sem Anúncios" e o icone bonitinho.</p>
+<p>A primeira versão lançada tinha um iconezinho de futebol e o nome certo. Mas acabei perdendo ela. Depois de muitos pedidos para lançar novamente o app (o host gratuito derrubou o site) eu criei rapidamente uma segunda versão, sem muita frescura.</p><p>Em funcionamento, é a mesma coisa do primeiro, só não tem o nome "Futebol sem Anúncios" e o icone bonitinho.</p>
