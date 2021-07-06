@@ -1,5 +1,5 @@
 <h1>Futebol Sem Anúncios</h2>
-<p>Aplicativo que corta aquelas abas/novas páginas que ficam abrindo toda hora ao ver seu jogo de futebol online. Só ficou os anuncios da tela (que é só fechar).
+<p>Aplicativo Android que corta aquelas abas/novas páginas que ficam abrindo toda hora ao ver seu jogo de futebol online. Só ficou os anuncios da tela (que é só fechar).
 </p>
 <p>E se o site estiver ruim, é só voltar e ir para outro em segundos.</p>
 <h2>Observações</h2>
